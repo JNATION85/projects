@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 528" style="enable-background:new 0 0 640 528;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#206095;}
+	.st1{fill:none;}
+	.st2{fill:#EAEAEA;}
+	.st3{font-family:'OpenSans-Bold';}
+	.st4{font-size:16px;}
+	.st5{font-family:'OpenSans';}
+	.st6{font-size:14.9115px;}
+	.st7{fill:#EAEAEA;stroke:#E09B00;stroke-width:2.9054;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#206095;stroke-width:0.7279;stroke-miterlimit:10;}
+</style>
+<rect x="2.3" y="2.4" class="st0" width="207.5" height="292.6"/>
+<rect x="14.8" y="17.4" class="st1" width="179.2" height="99.9"/>
+<text transform="matrix(1 0 0 1 14.8094 29.5195)" class="st2 st3 st4">Previous method</text>
+<text transform="matrix(1 0 0 1 14.8094 58.3195)" class="st2 st5 st6">We used a single adult </text>
+<text transform="matrix(1 0 0 1 14.8094 78.5195)" class="st2 st5 st6">household as the </text>
+<text transform="matrix(1 0 0 1 14.8094 98.7195)" class="st2 st5 st6">reference unit</text>
+<rect x="46.3" y="120" class="st1" width="115.7" height="54.4"/>
+<text transform="matrix(1 0 0 1 60.4527 131.3256)" class="st2 st3 st6">Single adult</text>
+<rect x="82.5" y="233.2" class="st1" width="43.6" height="14.3"/>
+<text transform="matrix(1 0 0 1 95.7713 244.5746)" class="st2 st3 st6">=1</text>
+<g>
+	<path class="st2" d="M104.3,158.3c3.8,0,6.8-3.1,6.8-6.9c0-3.8-3.1-6.8-6.8-6.8c-3.8,0-6.9,3.1-6.9,6.8
+		C97.4,155.2,100.5,158.3,104.3,158.3z"/>
+	<path class="st2" d="M103.3,222h3.2c1,0,1.8-0.8,1.8-1.8l4.4-30.7c1.3,0,3.5-1.4,3.5-3.8l-0.2-14.5c0.3-4.1-2.8-10.8-9.7-10.8h-4.4
+		c-6.9,0-10,6.7-9.7,10.8L92,185.7c0,2.4,2.1,3.8,3.5,3.8l4.2,30.7c0,1,0.8,1.8,1.8,1.8h3.2H103.3z"/>
+</g>
+<rect x="213.8" y="2.4" class="st7" width="423.1" height="292.6"/>
+<rect x="233.5" y="17.4" class="st1" width="399.9" height="77.8"/>
+<text transform="matrix(1 0 0 1 233.4966 29.5195)" class="st0 st3 st4">Current method</text>
+<text transform="matrix(1 0 0 1 233.4966 58.3195)" class="st0 st5 st6">A couple without children are now the reference unit</text>
+<g>
+	<rect x="304.2" y="120" class="st1" width="80.9" height="50.4"/>
+	<text transform="matrix(1 0 0 1 306.3819 131.3256)" class="st0 st3 st6">First adult</text>
+	<rect x="322.2" y="233.2" class="st1" width="43.6" height="14.3"/>
+	<text transform="matrix(1 0 0 1 329.1068 244.5746)" class="st0 st3 st6">0.67</text>
+	<g>
+		<path class="st0" d="M344.2,158.3c3.8,0,6.8-3.1,6.8-6.9c0-3.8-3.1-6.8-6.8-6.8c-3.8,0-6.9,3.1-6.9,6.8
+			C337.4,155.2,340.5,158.3,344.2,158.3z"/>
+		<path class="st0" d="M343.2,222h3.2c1,0,1.8-0.8,1.8-1.8l4.4-30.7c1.3,0,3.5-1.4,3.5-3.8l-0.2-14.5c0.3-4.1-2.8-10.8-9.7-10.8
+			h-4.4c-6.9,0-10,6.7-9.7,10.8l-0.2,14.5c0,2.4,2.1,3.8,3.5,3.8l4.2,30.7c0,1,0.8,1.8,1.8,1.8h3.2H343.2z"/>
+	</g>
+</g>
+<g>
+	<rect x="418" y="120" class="st1" width="144.4" height="53.9"/>
+	<text transform="matrix(1 0 0 1 446.7794 131.3256)" class="st0 st3 st6">Other adult</text>
+	<rect x="467.4" y="233.2" class="st1" width="43.6" height="14.3"/>
+	<text transform="matrix(1 0 0 1 474.3437 244.5749)" class="st0 st3 st6">0.33</text>
+	<g>
+		<path class="st0" d="M489.5,158.3c3.8,0,6.8-3.1,6.8-6.9c0-3.8-3.1-6.8-6.8-6.8c-3.8,0-6.9,3.1-6.9,6.8
+			C482.6,155.2,485.7,158.3,489.5,158.3z"/>
+		<path class="st0" d="M488.5,222h3.2c1,0,1.8-0.8,1.8-1.8l4.4-30.7c1.3,0,3.5-1.4,3.5-3.8l-0.2-14.5c0.3-4.1-2.8-10.8-9.7-10.8H487
+			c-6.9,0-10,6.7-9.7,10.8l-0.2,14.5c0,2.4,2.1,3.8,3.5,3.8l4.2,30.7c0,1,0.8,1.8,1.8,1.8h3.2H488.5z"/>
+	</g>
+</g>
+<rect x="400.1" y="233.2" class="st1" width="32.7" height="14.3"/>
+<text transform="matrix(1 0 0 1 412.177 244.5746)" class="st0 st3 st6">+</text>
+<rect x="364" y="262.9" class="st1" width="105.3" height="14.3"/>
+<text transform="matrix(1 0 0 1 406.1826 274.1953)" class="st0 st3 st6">= 1</text>
+<line class="st8" x1="416" y1="117.9" x2="416" y2="222"/>
+<rect y="304" class="st2" width="639.3" height="217.5"/>
+<rect x="15" y="319" class="st1" width="300.4" height="27.1"/>
+<text transform="matrix(1 0 0 1 14.9513 331.2054)" class="st0 st3 st4">Current equivalisation weights</text>
+<line class="st8" x1="162.7" y1="355.8" x2="162.7" y2="496.9"/>
+<line class="st8" x1="482.4" y1="355.8" x2="482.4" y2="496.9"/>
+<line class="st8" x1="322.5" y1="355.8" x2="322.5" y2="496.9"/>
+<g>
+	<rect x="502.7" y="355.6" class="st1" width="115" height="37.8"/>
+	<text transform="matrix(1 0 0 1 504.3728 367.0081)" class="st0 st3 st6">Children under</text>
+	<text transform="matrix(1 0 0 1 529.5728 387.2081)" class="st0 st3 st6">14 years</text>
+	<g>
+		<rect x="538.4" y="486.1" class="st1" width="43.6" height="14.3"/>
+		<text transform="matrix(1 0 0 1 549.5918 497.4421)" class="st0 st3 st6">0.2</text>
+		<g>
+			<path class="st0" d="M560.2,432.9c3.5,0,6.3-2.8,6.3-6.3s-2.8-6.3-6.3-6.3s-6.3,2.8-6.3,6.3S556.7,432.9,560.2,432.9z"/>
+			<path class="st0" d="M568.1,450.2l-0.1-9.9c0.2-2.8-1.8-7.4-6.3-7.4h-0.9c2.7-0.3,4.8-2.6,4.8-5.4c0-3-2.4-5.4-5.4-5.4
+				s-5.4,2.4-5.4,5.4c0,2.8,2.1,5.1,4.8,5.4h-0.8c-4.5,0-6.5,4.5-6.3,7.4l-0.1,9.9c0,1.5,1.1,2.4,2,2.5l1.7,19.9
+				c0.1,1.2,0.7,2.2,1.4,2.2h5.8c0.7,0,1.3-1,1.4-2.2l1.5-19.9C566.9,452.6,568.1,451.7,568.1,450.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="491" y="336.8" class="st1" width="138.5" height="38.7"/>
+</g>
+<g>
+	<rect x="344" y="355.6" class="st1" width="115" height="38.9"/>
+	<text transform="matrix(1 0 0 1 364.0183 368.4534)" class="st0 st3 st6">Child over  </text>
+	<text transform="matrix(1 0 0 1 370.8183 388.6534)" class="st0 st3 st6">14 years</text>
+	<g>
+		<rect x="379.7" y="486.1" class="st1" width="43.6" height="14.3"/>
+		<text transform="matrix(1 0 0 1 386.6294 497.4421)" class="st0 st3 st6">0.33</text>
+		<g>
+			<path class="st0" d="M401.5,423.5c4.3,0,7.7-3.5,7.7-7.7c0-4.3-3.5-7.8-7.7-7.8c-4.3,0-7.8,3.5-7.8,7.7
+				C393.7,420.1,397.2,423.5,401.5,423.5z"/>
+			<path class="st0" d="M411.1,444.6l-0.1-12.1c0.2-3.4-2.2-9-7.7-9h-1.1c3.3-0.3,5.9-3.2,5.9-6.6c0-3.7-3-6.6-6.6-6.6
+				c-3.7,0-6.6,3-6.6,6.6c0,3.4,2.6,6.2,5.9,6.6h-1c-5.5,0-8,5.6-7.7,9l-0.1,12.1c0,1.8,1.3,2.9,2.4,3.1l2.1,24.4
+				c0.1,1.5,0.9,2.7,1.7,2.7h7.1c0.8,0,1.6-1.2,1.7-2.7l1.8-24.4C409.7,447.6,411.1,446.5,411.1,444.6z"/>
+		</g>
+	</g>
+</g>
+<rect x="332.3" y="349.5" class="st1" width="138.5" height="38.7"/>
+<g>
+	<rect x="185.3" y="355.6" class="st1" width="115" height="44.5"/>
+	<text transform="matrix(1 0 0 1 220.9548 367.0081)" class="st0 st3 st6">Other</text>
+	<text transform="matrix(1 0 0 1 223.1548 387.2081)" class="st0 st3 st6">adult</text>
+	<g>
+		<rect x="221" y="486.1" class="st1" width="43.6" height="14.3"/>
+		<text transform="matrix(1 0 0 1 227.9228 497.4421)" class="st0 st3 st6">0.33</text>
+		<g>
+			<path class="st0" d="M243.1,411.1c3.8,0,6.8-3.1,6.8-6.9c0-3.8-3.1-6.8-6.8-6.8c-3.8,0-6.9,3.1-6.9,6.8
+				C236.2,408,239.3,411.1,243.1,411.1z"/>
+			<path class="st0" d="M242,474.8h3.2c1,0,1.8-0.8,1.8-1.8l4.4-30.7c1.3,0,3.5-1.4,3.5-3.8l-0.2-14.5c0.3-4.1-2.8-10.8-9.7-10.8
+				h-4.4c-6.9,0-10,6.7-9.7,10.8l-0.2,14.5c0,2.4,2.1,3.8,3.5,3.8l4.2,30.7c0,1,0.8,1.8,1.8,1.8h3.2H242z"/>
+		</g>
+	</g>
+</g>
+<rect x="173.6" y="354.7" class="st1" width="138.5" height="38.7"/>
+<g>
+	<rect x="26.6" y="355.6" class="st1" width="115" height="55.7"/>
+	<text transform="matrix(1 0 0 1 67.4142 367.0081)" class="st0 st3 st6">First</text>
+	<text transform="matrix(1 0 0 1 64.5142 387.2081)" class="st0 st3 st6">adult</text>
+	<g>
+		<rect x="62.3" y="486.1" class="st1" width="43.6" height="14.3"/>
+		<text transform="matrix(1 0 0 1 69.216 497.4421)" class="st0 st3 st6">0.67</text>
+		<g>
+			<path class="st0" d="M84.3,411.1c3.8,0,6.8-3.1,6.8-6.9c0-3.8-3.1-6.8-6.8-6.8c-3.8,0-6.9,3.1-6.9,6.8
+				C77.5,408,80.6,411.1,84.3,411.1z"/>
+			<path class="st0" d="M83.3,474.8h3.2c1,0,1.8-0.8,1.8-1.8l4.4-30.7c1.3,0,3.5-1.4,3.5-3.8L96,424c0.3-4.1-2.8-10.8-9.7-10.8h-4.4
+				c-6.9,0-10,6.7-9.7,10.8L72,438.5c0,2.4,2.1,3.8,3.5,3.8l4.2,30.7c0,1,0.8,1.8,1.8,1.8h3.2H83.3z"/>
+		</g>
+	</g>
+</g>
+<rect x="14.9" y="357.7" class="st1" width="138.5" height="38.7"/>
+</svg>
